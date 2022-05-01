@@ -1,0 +1,77 @@
+# You can add or remove courses.
+# See https://academy.moralis.io/all-courses for an updated list of courses.
+# This list is up-to-date as of May 1, 2022.
+Crypto for Beginners
+https://academy.moralis.io/courses/crypto-for-beginners
+Master DeFi in 2022
+https://academy.moralis.io/courses/defi-101
+Build a DEX Using JavaScript
+https://academy.moralis.io/courses/javascript-programming-for-blockchain-developers
+Moralis Web3 dApp Programming
+https://academy.moralis.io/courses/moralis-web3-dapp-programming
+Blockchain & Bitcoin Fundamentals
+https://academy.moralis.io/courses/blockchain-bitcoin-101
+Ethereum Fundamentals
+https://academy.moralis.io/courses/ethereum-101
+Blockchain Business Masterclass
+https://academy.moralis.io/courses/blockchain-business-masterclass
+Bitcoin Monetary Revolution
+https://academy.moralis.io/courses/the-bitcoin-standard-course-history-of-money-and-bitcoin
+Program Trading Algorithms
+https://academy.moralis.io/courses/algorithmic-trading-technical-analysis
+DeFi 101 - Old Version
+https://academy.moralis.io/courses/defi-101-old
+Advanced DeFi
+https://academy.moralis.io/courses/defi-201
+Cryptography & Privacy Coins
+https://academy.moralis.io/courses/cryptography-privacy-coins-bitcoin-monero-zcash-and-more
+Build a Wallet On Ethereum
+https://academy.moralis.io/courses/ethereum-smart-contract-programming-101
+Build a DEX On Ethereum
+https://academy.moralis.io/courses/ethereum-smart-contract-programming-201
+Bitcoin Programming 101
+https://academy.moralis.io/courses/bitcoin-programming-101
+React Web Development 101
+https://academy.moralis.io/courses/react-web-development-101
+Lightning Network & Lightning App Programming
+https://academy.moralis.io/courses/lightning-network-lightning-app-programming
+Master Technical Analysis
+https://academy.moralis.io/courses/technical-analysis-101
+EOS Programming 101
+https://academy.moralis.io/courses/eos-programming-101
+EOS Programming 201
+https://academy.moralis.io/courses/eos-programming-201
+Ethereum Game Programming
+https://academy.moralis.io/courses/ethereum-game-programming
+Unity Blockchain Game Development 101
+https://academy.moralis.io/courses/unity-blockchain-game-development-101
+Enjin Blockchain Development 101
+https://academy.moralis.io/courses/enjin-blockchain-development-101
+Ethereum Smart Contract Security
+https://academy.moralis.io/courses/ethereum-smart-contract-security
+C++ Programming for Blockchain Developers
+https://academy.moralis.io/courses/c-programming-for-blockchain-developers
+Blockchain for Enterprise
+https://academy.moralis.io/courses/baseline-protocol-and-unibright-blockchain-for-enterprise
+Bitcoin Vulnerabilities
+https://academy.moralis.io/courses/bitcoin-attacks
+Master Fintech Business
+https://academy.moralis.io/courses/fintech-101
+U.S. Taxation of Digital Assets
+https://academy.moralis.io/courses/us-taxation-of-digital-assets
+OriginTrail 101
+https://academy.moralis.io/courses/origintrail-101
+OriginTrail 102
+https://academy.moralis.io/courses/origintrail-102
+Supply Chains in Blockchain
+https://academy.moralis.io/courses/morpheus-network-101
+Master Polkadot Ecosystem
+https://academy.moralis.io/courses/polkadot-101
+Program Oracles Using Chainlink
+https://academy.moralis.io/courses/chainlink-101
+Build an NFT Marketplace
+https://academy.moralis.io/courses/ethereum-dapp-programming
+The essential blockchain job search guide
+https://academy.moralis.io/courses/the-essential-blockchain-job-search-guide
+Study Guide
+https://academy.moralis.io/courses/study-guide
