@@ -73,5 +73,3 @@ Build an NFT Marketplace
 https://academy.moralis.io/courses/ethereum-dapp-programming
 The essential blockchain job search guide
 https://academy.moralis.io/courses/the-essential-blockchain-job-search-guide
-Study Guide
-https://academy.moralis.io/courses/study-guide

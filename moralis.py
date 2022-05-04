@@ -6,7 +6,7 @@ import re
 import getpass
 
 
-print("Downloading the courses from Moralis Academy may be an illegal action")
+print("Downloading the courses from Moralis Academy may be an illegal action.")
 print("Please read Terms & Conditions carefully before proceeding.")
 input("Enter to continue.")
 print()
@@ -115,7 +115,17 @@ def download_720p(video_url, page_url, dir, title=None):
             stream.download(download_directory=dir, filename=title if title else v.metadata.title)
             break
     else:
-        v.streams[-1].download(download_directory=dir, filename=title if title else v.metadata.title)
+        # 720p yoksa 720p'den daha iyi olan en düşük kalitedeki videoyu indir. Hiçbiri daha iyi değilse en iyisini indir.
+        good_stream = v.streams[-1]
+        for stream in reversed(v.streams):
+            if stream.quality.endswith("p"):
+                try:
+                    current_quality = int(stream.quality[:-1])
+                    if current_quality >= 720:
+                        good_stream = stream
+                except:
+                    pass
+        good_stream.download(download_directory=dir, filename=title if title else v.metadata.title)
 
 
 def login_and_download_courses():
